@@ -1,1 +1,8 @@
 https://www.youtube.com/playlist?list=PLT3YBkLPlH9S_aZ5rPwQsOvBSeWoruchk
+
+
+https://greenteapress.com/thinkstats2/html/index.html
+
+https://realpython.com/python-matplotlib-guide/
+
+https://www.datacamp.com/tutorial/probability-distributions-python
